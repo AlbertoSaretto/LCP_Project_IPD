@@ -1,4 +1,4 @@
-# LCP_Project_-IPD
+# LCP_Project_IPD
 Implementation and simulation of strategies for Iterative Prisoner's Dilemma
 
 The Prisoner's Dilemma (PD) is a classical game analyzed in game theory, which is widely used to (attempt to) model social/economical interaction. It's a "dilemma" as, if exploited to explain the emergence of altruism in human or in general animal society, it fails badly at a first glance.
